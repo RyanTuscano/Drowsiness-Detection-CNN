@@ -4,7 +4,7 @@ Try it yourself:-> marks 30 points on your face (landmark) and distance between 
 
 ^
 
-|
+||
 
 High level on how the model works
 
